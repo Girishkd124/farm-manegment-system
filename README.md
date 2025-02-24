@@ -1,20 +1,21 @@
-Agrolight: Farm Management System
-Project Name: Agrolight
+# Agrolight: Farm Management System  
 
-Description:
-Agrolight is an innovative farm management system designed to bridge the gap between farmers and customers. It provides a seamless platform for farmers to directly sell their products to customers, eliminating middlemen and ensuring fair prices. Customers can browse various farm products, place orders, and track their purchases.
+## Project Name: Agrolight  
 
-Features:
+### Description  
 
-User Registration and Authentication: Secure login for farmers and customers.
-Product Listing: Farmers can list their products with detailed descriptions and pricing.
-Order Management: Customers can place orders and track their status.
-Responsive Design: User-friendly interface accessible on both desktop and mobile devices.
-Admin Panel: Manage user accounts, orders, and product listings.
-Technologies Used:
+**Agrolight** is an innovative farm management system designed to bridge the gap between farmers and customers. It provides a seamless platform for farmers to directly sell their products to customers, eliminating middlemen and ensuring fair prices. Customers can browse various farm products, place orders, and track their purchases.  
 
-Frontend: HTML, CSS, JavaScript
+## Features  
 
-Backend: PHP
+- **User Registration and Authentication**: Secure login for farmers and customers.  
+- **Product Listing**: Farmers can list their products with detailed descriptions and pricing.  
+- **Order Management**: Customers can place orders and track their status.  
+- **Responsive Design**: User-friendly interface accessible on both desktop and mobile devices.  
+- **Admin Panel**: Manage user accounts, orders, and product listings.  
 
-Database: MySQL
+## Technologies Used  
+
+- **Frontend**: HTML, CSS, JavaScript  
+- **Backend**: PHP  
+- **Database**: MySQL  
